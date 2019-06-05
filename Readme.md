@@ -25,3 +25,4 @@ Then run
 ```
 python example_stream.py
 ```
+For further information, please refer to our API document: http://cochlear.ai/docs/.
