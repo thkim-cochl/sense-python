@@ -1,4 +1,4 @@
-# sense-python
+# sense-python (Sense API beta-v2)
 
 This repository implement a library working with python to interact with Cochlear.ai backend.
 
