@@ -30,7 +30,7 @@ with open("Readme.md", "r") as fh:
 
 setup(
     name='cochl-sense',
-    version='beta-v2',
+    version='1.0b2',
     author='Cochlear.ai',
     author_email='support@cochlear.ai',
     description='Python Package for Cochlear.ai sense python',

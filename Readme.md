@@ -10,7 +10,7 @@ Make sure to have install `python3` and `pip`.
 ### Initialisation
 
 ```
-pip install -r requirements.txt
+pip install cochl-sense
 ```
 
 ### Launch Examples
