@@ -1,7 +1,7 @@
 # Copyright 2019 Cochlear.ai Ltd. All Rights Reserved.
 
 import json
-from common.sense import sense
+from cochl.sense import sense
 import pprint
 import time
 

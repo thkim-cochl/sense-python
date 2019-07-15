@@ -3,9 +3,9 @@
 import json
 import pprint
 
-from common.sense import SenseStreamer
-from common.sense import sense_stream_request
-from common.sense import sense_stream_response
+from cochl.sense import SenseStreamer
+from cochl.sense import sense_stream_request
+from cochl.sense import sense_stream_response
 
 apikey = 'Your API-key here'
 task = 'event'

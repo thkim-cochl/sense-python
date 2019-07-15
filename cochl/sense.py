@@ -2,8 +2,8 @@
 
 import grpc
 
-from common import SenseClient_pb2
-from common import SenseClient_pb2_grpc
+from cochl import SenseClient_pb2
+from cochl import SenseClient_pb2_grpc
 
 import pyaudio
 from six.moves import queue
